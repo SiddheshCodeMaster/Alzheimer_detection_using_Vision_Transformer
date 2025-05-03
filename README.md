@@ -3,6 +3,7 @@
 AGanTCAM is a deep learning framework designed for early detection of Alzheimer’s Disease using brain MRI scans. It integrates Vision Transformers (ViT) with Explainable AI (XAI) to ensure both accuracy and interpretability. The project incorporates GAN-based augmentation to improve model generalization and leverages Grad-CAM for visualizing model attention.
 
 🚀 Key Features
+
 ✅ Vision Transformer-based classification of MRI image patches
 
 ✅ Data preprocessing with standard augmentation and GAN-generated images
