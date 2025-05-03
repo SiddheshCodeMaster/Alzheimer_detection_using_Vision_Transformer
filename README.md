@@ -16,6 +16,7 @@ AGanTCAM is a deep learning framework designed for early detection of Alzheimer�
 ✅ Transparent and interpretable predictions for medical insights
 
 🧪 Project Pipeline
+
 🔹 Phase 1: Data Preprocessing
 6400 labeled MRI images
 
